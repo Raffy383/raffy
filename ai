@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .highlighted-text {
+            background-color: tomato;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+  <h1>
+    <h1>akjfdakjfd</h1>
+    <h1>Welcome to My Basic HTML Page</h1>
+
+    <p>This is a simple example of an <strong>HTML</strong> page that includes various elements and styles.</p>
+
+    <p>Here is a <a href="https://www.example.com">link</a> to an example website.</p>
+
+    <p class="highlighted-text">This paragraph has a highlighted background color.</p>
+
+    <h2>Some Benefits of HTML</h2>
+    <ul>
+        <li>Easy to learn</li>
+        <li>Standardized structure</li>
+        <li>Supports multimedia</li>
+    </ul>
+
+    <h3>Basic HTML Structure</h3>
+    <pre>
+        &lt;!DOCTYPE html&gt;
+        &lt;html&gt;
+        &lt;head&gt;
+            &lt;title&gt;Page Title&lt;/title&gt;
+        &lt;/head&gt;
+        &lt;body&gt;
+            &lt;h1&gt;Hello, World!&lt;/h1&gt;
+            &lt;p&gt;This is a paragraph.&lt;/p&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+    </pre>
+</body>
+</html>
